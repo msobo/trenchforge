@@ -1,9 +1,12 @@
 # TrenchForge
 
+![Icon](trenchforge_icon.jpg)
+
 Blockout level design with textures, directly in the Godot 3D viewport. TrenchForge builds levels from convex brushes, inspired by [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) and [Anvil Level Design](https://anvilleveldesign.com/docs/intro/).
 
 Levels are regular Godot scenes (`.tscn`). There is no external editor and no import step, and a finished level only needs standard Godot nodes at runtime.
 
+[Video-Demonstration](https://youtu.be/4y9M3WGraEc?si=qIUTXVQYcL7TVMls)
 ## Requirements
 
 Godot **4.7** or later (Forward+).
