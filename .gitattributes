@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# Keep release archives down to the addon and its license.
+/.gitattributes export-ignore
+/.gitignore export-ignore
+/README.md export-ignore
+/CHANGELOG.md export-ignore

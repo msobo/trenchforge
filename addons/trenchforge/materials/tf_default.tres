@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3]
+
+[ext_resource type="Texture2D" uid="uid://vwupgubmqcs8" path="res://addons/trenchforge/materials/tf_default.png" id="1_tex"]
+
+[resource]
+resource_name = "tf_default"
+albedo_texture = ExtResource("1_tex")
+roughness = 1.0
+texture_filter = 5
